@@ -1,4 +1,4 @@
--- Exemplo de criação da tabela clientes no PostgreSQL
+
 CREATE TABLE clientes (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
